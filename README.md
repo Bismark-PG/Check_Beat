@@ -1,2 +1,4 @@
-# Check_Beat
-Top-Down Rhythm Action Puzzle Game Project With Unity 3D
+# ♟️ Check Beat
+- **A Top-down Rhythm Action Puzzle game where every move must sync with the beat.**
+
+(Editing Now)
