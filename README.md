@@ -38,7 +38,9 @@ Simply press the movement keys when the bars merge in the center to maintain a p
 
 ## 💾 Download Link
 
-### [Google Drive](https://drive.google.com/file/d/1ExI7GrpEFcKNG2PoIUIAjMF1MkntOVdC/view?usp=drive_link)
+### [Google Drive](https://drive.google.com/file/d/1OQPS9JyPqE1ieXWsYJt4mngPRE8V1GXy/view?usp=sharing)
+
+### [itch.io](https://bis-mark.itch.io/check-beat)
 
 ---
 
